@@ -1,4 +1,4 @@
-![Rice Image Computer Vision Classification](https://storage.googleapis.com/kaggle-datasets-images/2049052/3399185/7b6d21bb13197d412ca73fa90a143395/dataset-cover.jpg?t=2022-04-03-02-16-40)
+![Rice Image Computer Vision Classification](https://github.com/DarlyP/Rice-Image-Dataset/blob/main/Notebook/rice.jpg)
 
 # Rice Image Classification Using Computer Vision
 
