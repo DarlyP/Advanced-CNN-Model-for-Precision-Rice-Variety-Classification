@@ -7,7 +7,7 @@
 
 ## Data Source
 
-Kaggle: [Rice Image Classification Using Computer Vision](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset).
+Kaggle: [Rice Image Dataset](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset).
 
 ---
 
