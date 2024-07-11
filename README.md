@@ -38,6 +38,7 @@ Tujuan utama dari proyek ini adalah untuk mengembangkan model *machine learning*
 ## Deployment Model
 
 Hugging Face: [Rice Image Dataset](https://huggingface.co/spaces/darly9991/Rice_Image_Classification).
+
 Model: [Rice Image Computer Vision Classification](https://drive.google.com/file/d/1H-NmiarcH41X4w7tSFGknVg8EV_NkFX6/view?usp=sharing)
 
 ---
