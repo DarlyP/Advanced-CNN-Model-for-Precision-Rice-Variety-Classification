@@ -4,6 +4,16 @@
 
 ---
 
+## Tools
+[<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />](https://pandas.pydata.org/)
+[<img src="https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />](https://seaborn.pydata.org/)
+[<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />](https://numpy.org/)
+[<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />](https://matplotlib.org/)
+[<img src="https://img.shields.io/badge/Scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />](https://scikit-learn.org/)
+[<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />](https://www.tensorflow.org/)
+[<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />](https://keras.io/)
+
+---
 
 ## Data Source
 
@@ -13,7 +23,7 @@ Kaggle: [Rice Image Dataset](https://www.kaggle.com/datasets/muratkokludataset/r
 
 ## Introduction
 
-Tujuan utama dari proyek ini adalah untuk mengembangkan model *machine learning* yang dapat secara akurat mengklasifikasikan kualitas dan jenis beras berdasarkan karakteristik visual seperti bentuk dan warna. Dengan memanfaatkan teknik pengolahan citra dan algoritma klasifikasi, proyek ini bertujuan untuk menghasilkan sistem yang dapat membantu dalam proses penentuan kualitas beras secara otomatis dan efisien. Ini akan mencakup pembuatan dan pelatihan model menggunakan dataset gambar beras yang telah diberi label untuk tiap kelasnya, serta evaluasi kinerja model untuk memastikan akurasi dan keandalannya. Dengan demikian, proyek ini diharapkan dapat meningkatkan kecepatan dan akurasi dalam penilaian kualitas beras, yang pada gilirannya akan mengoptimalkan rantai pasokan dan meningkatkan kepuasan konsumen.
+The main goal of this project is to develop a machine-learning model that can accurately classify the quality and type of rice based on visual characteristics such as shape and color. By leveraging image processing techniques and classification algorithms, the project aims to create a system that can assist in the automatic and efficient determination of rice quality. This includes building and training models using labeled rice image datasets for each class, as well as evaluating model performance to ensure accuracy and reliability. Therefore, the project is expected to improve the speed and accuracy of rice quality assessment, thereby optimizing supply chains and enhancing customer satisfaction.
 
 ---
 
@@ -29,9 +39,11 @@ Tujuan utama dari proyek ini adalah untuk mengembangkan model *machine learning*
 
 ## Model Development
 
-1. Melakukan *data augmentation* pada model dasar sehingga performa pada model dasar dan model peningkatan lebih terlihat perbandingan yang setara.
-2. Menambahkan *Confusion Matrix*.
-3. Melakukan *query* untuk mencari data yang terkategori sebagai TP, TN, FP, dan FN pada masing-masing kelas, kemudian menganalisis karakteristiknya.
+- Perform data augmentation on the base model to show a more equal comparison of performance between the base model and the augmented model.
+   
+- Add a Confusion Matrix to evaluate model performance.
+
+- Conduct queries to find data categorized as TP (True Positive), TN (True Negative), FP (False Positive), and FN (False Negative) for each class, then analyze their characteristics.
 
 ---
 
@@ -43,6 +55,6 @@ Model: [Rice Image Computer Vision Classification](https://drive.google.com/file
 
 ---
 
-**Disclaimer**: Notebook ini dibuat semata-mata untuk tujuan pembelajaran dan eksplorasi. Tidak ada maksud untuk menyinggung atau merugikan pihak mana pun. Segala konten dan analisis yang disajikan didasarkan pada data publik yang tersedia secara online. Saya melakukan proses ini untuk meningkatkan pemahaman tentang teknik dan metodologi analisis data, serta untuk mengasah keterampilan dalam mengimplementasikan algoritma dan model yang relevan dalam konteks pembelajaran data science.
-
-Dalam melakukan analisis ini, saya berusaha menjaga objektivitas dan profesionalitas dalam menginterpretasikan data yang ada. Segala kesimpulan atau rekomendasi yang disampaikan merupakan hasil dari analisis pribadi dan tidak bermaksud sebagai saran profesional dalam kapasitas tertentu. Saya berharap informasi yang diperoleh dari notebook ini dapat bermanfaat bagi siapa pun yang membacanya untuk kepentingan belajar dan pengembangan keterampilan analisis data.
+**Disclaimer**: 
+- This notebook is created solely for learning and exploration purposes. There is no intention to offend or harm any party. All content and analysis presented are based on publicly available data online. I undertake this process to enhance my understanding of data analysis techniques and methodologies and hone my skills in implementing relevant algorithms and models within the context of data science learning. In conducting this analysis, I strive to maintain objectivity and professionalism in interpreting the existing data. Any conclusions or recommendations provided result from personal analysis and are not intended as professional advice in any specific capacity. I hope the information obtained from this notebook can be useful to anyone reading it to learn and develop data analysis skills.
+- This notebook is written in Indonesian.
