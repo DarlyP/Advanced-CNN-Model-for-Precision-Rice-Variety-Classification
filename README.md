@@ -1,6 +1,6 @@
 ![Rice Image Computer Vision Classification](https://github.com/DarlyP/Rice-Image-Dataset/blob/main/Notebook/rice.jpg)
 
-# Rice Image Classification Using Computer Vision
+# Advanced CNN Model for Precision Rice Variety Classification
 
 ---
 
